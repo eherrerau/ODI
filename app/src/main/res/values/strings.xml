@@ -5,4 +5,11 @@
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <string name="action_settings">Settings</string>
+    <string name="odi_title">ODI Calling Card Manager</string>
+    <string name="developed_by">Developed by</string>
+    <string name="recent">Recent</string>
+    <string name="dial">Dial</string>
+    <string name="my_cards">My Cards</string>
+    <string name="share">Share</string>
+    <string name="send">Send</string>
 </resources>
